@@ -1,0 +1,1 @@
+{"labels": [{"name": "positive_cell", "x1": 218, "y1": 63, "x2": 255, "y2": 92, "size": {"height": 256, "width": 256}}, {"name": "nucleus", "x1": 179, "y1": 74, "x2": 185, "y2": 81, "size": {"height": 256, "width": 256}}, {"name": "nucleus", "x1": 208, "y1": 225, "x2": 232, "y2": 231, "size": {"height": 256, "width": 256}}]}
